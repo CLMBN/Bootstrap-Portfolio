@@ -7,7 +7,7 @@ body {
 }
 
 * {
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
 }
 
 .auth-image{
@@ -18,8 +18,8 @@ body {
 }
 
 .sidenav {
-	margin-top: 5px;
-	margin bottom: 20px;
+  margin-top: 5px;
+  margin bottom: 20px;
 }
 .sidenav h2 {
 	margin-bottom: 15px;
@@ -38,16 +38,14 @@ body {
   margin-right: 0;
 }
 #connect {
-	background: #fff;
-	padding: 15px;
+  background: #fff;
+  padding: 6px;
 }
-
 #about {
-	margin-top: 5px;
-	background: #fff;
-	padding: 10px;
+  margin-top: 5px;
+  background: #fff;
+  padding: 10px;
 }
-
 h1 {
 	border-bottom: 3px solid #ddd;
 }
@@ -66,8 +64,5 @@ h1 {
     z-index: 2;
     background-color: #4aaaa5;
   }
-
-
-
 
 
